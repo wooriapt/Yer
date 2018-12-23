@@ -34,17 +34,16 @@ Optimistic-Block-Production 방식과 최적화된 블록 유효성 투표 프�
 ![_config.yml]({{ site.baseurl }}/assets/img/ProSpeak-Burenga_web_152133.jpg) 
 
 ## Real Estate Investment Trust - REIT Yer
-### Yer Tokens 메타마스크에 추가 및 담기에 필요한 정보 
+### Yer Tokens E-Wallet 메타마스크에 추가 및 담기에 필요한 정보 
 
-### Baand: Real asset Tlken
-```
-Summary [ERC-20]
-Interacting with token at address: 0xdd1971aa36917c3bfb31af93d10ddf13a3aa1a26 
-Token Symbol: Yer   
-Decimals of Precision: 8  
-Network Mode : Ropsten Testnet  
+### Band: Real asset Token
+- Summary [ERC-20]
+- Interacting with token at address:   
+  0xdd1971aa36917c3bfb31af93d10ddf13a3aa1a26 
+- Token Symbol: Yer   
+- Decimals of Precision: 8  
+- Network Mode : Ropsten Testnet  
 
-```
 
 ### Roadmap
 
