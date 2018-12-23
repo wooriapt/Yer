@@ -50,7 +50,14 @@ Optimistic-Block-Production 방식과 최적화된 블록 유효성 투표 프�
 
 
 ### Project philosophy
-
+Real Estate Investment Trust - REIT Yer (Building Block Management)은 부동산 투자 신탁 (REIT) 산업을 변화시킬 것으로 기대되는 완전한 블록 체인 기술 솔루션을 만들고 있습니다.     
+REIT Yer은 독점적인 기술을 사용하여 증권화 된 토큰으로서의 주식을 가진 Korea. Viet nam.Eesti Vabariik  기반 REIT(리츠)를 시작할 계획입니다.  
+ 
+이 새로운 기술과 구조는 운영 비용을 절감하고 REIT 주식에 대한 유동성을 생성하며 관리에 보다 간단하고 쉽게 접근할 수 있게 합니다.     
+REIT Yer의 계획된 수익 모델은 REIT Yer 및 비 계열 REIT의 소프트웨어 라이선스 및 컨설팅 수수료뿐만 아니라 향후 REIT 제공 서비스의 관리 수수료에 
+중점을 둘 것입니다.   
+글로벌 리츠 (REIT) 시장은 관리 자산으로 약 3 조 달러에 달하며, 중단 될 준비가 된 구시대 산업입니다.   
+REIT Yer은 현재 공인 투자자에게만 제공되는 초기 시드 라운드(단계)에 있습니다.  
 
 ### Running tests
 
