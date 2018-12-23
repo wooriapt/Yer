@@ -28,7 +28,7 @@ Optimistic-Block-Production 방식과 최적화된 블록 유효성 투표 프�
 알고리즘은  개발되는 Real Estate Investment Trust - REIT YER on/off-chain 하이브리드 거래소 기술과 함께 높은 수준의 블록체인 성능 확장성을 제공한다. 
 
 블록체인상에 신뢰 네트워크를 구축하여 블록체인 계정 복구를 실현할 수 있는 네임드 멀티시그너처 블록체인 계정 시스템과
-블록체인에 통합되어 제공되는 KYC/AML 규제준수 지원과 같은 특징들은 안정적이고 견고한 YOSEMITE 블록체인
+블록체인에 통합되어 제공되는 KYC/AML 규제준수 지원과 같은 특징들은 안정적이고 견고한 Real Estate Investment Trust - REIT YER 블록체인
 생태계를 가능케 한다.  
 
 ![_config.yml]({{ site.baseurl }}/assets/img/ProSpeak-Burenga_web_152133.jpg) 
