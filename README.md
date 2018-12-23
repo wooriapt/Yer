@@ -4,7 +4,7 @@
 [![Build Status](https://travis-ci.org/pages-themes/minimal.svg?branch=master)](https://travis-ci.org/pages-themes/minimal) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
 *Minimal is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/minimal), or even [use it today](#usage).*
-
+### Abstract
 본 기술 백서는 블록체인에서 자체적으로 발행되는 네이티브 암호화폐가 없는 퍼블릭 블록체인 기술에 대해 소개한다.
 법정화폐에 가치가 고정된 코인(예, dUSD , USD에 가치가 고정된 신용 토큰)이 블록체인 상에 발행되어 블록체인
 시스템의 기본 통화로 사용되며, 금융 회사나 정부와 같은 신뢰기관들이 블록체인 사용자들로부터 수신한 법정화폐를
