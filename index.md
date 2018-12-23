@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Real Estate Investment Trust - REIT
+# Real Estate Investment Trust - REIT
 ![_config.yml]({{ site.baseurl }}/assets/img/ki9EwJDZQYGHsdJpb.jpg)    
 ### Real asset Project Name: YER
 
