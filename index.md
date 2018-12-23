@@ -5,7 +5,7 @@ layout: default
 ## Real Estate Investment Trust - REIT
 ![_config.yml]({{ site.baseurl }}/assets/img/ebis.png)  
 ### Real asset Project Name: YER
-
+![_config.yml]({{ site.baseurl }}/assets/img/ebis.png)
 [Link to another page](./another-page.html).
 
 본 기술 백서는 블록체인에서 자체적으로 발행되는 네이티브 암호화폐가 없는 퍼블릭 블록체인 기술에 대해 소개한다.    
@@ -31,7 +31,7 @@ Optimistic-Block-Production 방식과 최적화된 블록 유효성 투표 프�
 블록체인에 통합되어 제공되는 KYC/AML 규제준수 지원과 같은 특징들은 안정적이고 견고한 YOSEMITE 블록체인
 생태계를 가능케 한다.  
 
-
+![_config.yml]({{ site.baseurl }}/assets/img/ebis.png)  
 ## Roadmap
 
 
