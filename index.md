@@ -3,6 +3,7 @@ layout: default
 ---
 
 ## Real Estate Investment Trust - REIT
+![_config.yml]({{ site.baseurl }}/assets/img/ebis.png)  
 ### Real asset Project Name: YER
 
 [Link to another page](./another-page.html).
