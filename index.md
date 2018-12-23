@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Real Estate Investment Trust - REIT
+## Real Estate Investment Trust - REIT
 ### Real asset Project Name: YER
 
 [Link to another page](./another-page.html).
