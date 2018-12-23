@@ -88,5 +88,7 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 우리의 프로젝트는 Korea. Viet Nam. Eesti Vabariik 진행예정인 프로젝트입니다.  
 
 추가 정보를 얻으려면 투자자 설문지를 작성하고 법률에서 요구하는 적합성 기준을 충족해야합니다.  
+
+---------------------------------
 자료 요청 [프로젝트 매니저(Project manager)](dany.me.park@gmail.com) 하기.
 
