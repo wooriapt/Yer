@@ -6,7 +6,7 @@ layout: default
 ![_config.yml]({{ site.baseurl }}/assets/img/ki9EwJDZQYGHsdJpb.jpg)    
 ### Real asset Project Name: YER
 
-[Link to another page](./another-page.html).
+[Link to Real Estate Investment Trust - REIT page](./another-page.html).
 
 본 기술 백서는 블록체인에서 자체적으로 발행되는 네이티브 암호화폐가 없는 퍼블릭 블록체인 기술에 대해 소개한다.    
 법정화폐에 가치가 고정된 코인(예, YER , USD에 가치가 고정된 신용 토큰)
