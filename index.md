@@ -60,3 +60,11 @@ Optimistic-Block-Production 방식과 최적화된 블록 유효성 투표 프�
 
 Join our Telegram channel today to show your support!   
 Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
+
+#### [notice]
+여기에서 그리고 우리의 웹사이트에 제시된 자료는 정보 제공의 목적으로 만 제공되거나 일반적으로 또는 증권을 오퍼(매수)나 매도가 
+허용되지 않는 나라 또는 사법 관할 구역에서는 증권을 매매하기 위한 청약을 권유하지 않습니다. 
+이 오퍼(제안)은 안내서 또는 기타 Offering(제시) 자료에 의해서만 제공됩니다. 
+우리의 프로젝트는 Korea. Viet Nam. Eesti Vabariik 진행예정인 프로젝트입니다.  
+
+추가 정보를 얻으려면 투자자 설문지를 작성하고 법률에서 요구하는 적합성 기준을 충족해야합니다.
