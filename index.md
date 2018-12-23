@@ -68,7 +68,18 @@ REIT Yer은 현재 공인 투자자에게만 제공되는 초기 시드 라운�
 또한 github, Twitter 및 Telegram을 정보를 받으십시요.
 
 Join our Telegram channel today to show your support!   
-Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").
+Please also follow and like us on [github](https://github.com/wooriapt "github"), [Twitter](https://twitter.com/wooriapt79 "Twitter"), and [Telegram](https://t.me/cubeon "Telegram").  
+
+**[소문내기]**  
+여러분의 단 한번씩의 조회나 찾기가  
+[Naver] [2] 나 [Daum] [3]보다 [Google] [1]에서 트래픽이 10 배나 많아집니다. 
+
+-------------------------------  
+
+  [1]: http://google.com/     "Google"  
+  [2]: http://www.naver.com/  "Naver"  
+  [3]: http://www.daum.net/   "Daum Search"  
+
 
 #### [notice]
 여기에서 그리고 우리의 웹사이트에 제시된 자료는 정보 제공의 목적으로 만 제공되거나 일반적으로 또는 증권을 오퍼(매수)나 매도가 
