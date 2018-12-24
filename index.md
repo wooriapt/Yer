@@ -94,3 +94,5 @@ Please also follow and like us on [github](https://github.com/wooriapt "github")
 ---------------------------------
 자료 요청 [프로젝트 매니저(Project manager)](dany.me.park@gmail.com) 하기.
 
+![_config.yml]({{ site.baseurl }}/assets/img/welcome6.png)
+
